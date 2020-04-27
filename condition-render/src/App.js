@@ -30,7 +30,7 @@ class App extends Component {
         return (
             <div>
                 <p>{text}</p>
-        <P>{this.state.name}</P>
+              
             </div>
         )
     }
